@@ -2,9 +2,9 @@
 This is just a sandbox to learn how git and github work
 
 # Some nice images from [shields.io](https://shields.io)
-![Release](https://img.shields.io/github/release/CrafterKolyan/sandbox.svg)
-![Size](https://img.shields.io/github/repo-size/CrafterKolyan/sandbox.svg)
-![License](https://img.shields.io/github/license/CrafterKolyan/sandbox.svg)
+![Release](https://img.shields.io/github/release/CrafterKolyan/sandbox.svg?)
+![Size](https://img.shields.io/github/repo-size/CrafterKolyan/sandbox.svg?)
+![License](https://img.shields.io/github/license/CrafterKolyan/sandbox.svg?)
 
 ## What was tested:
 1. Perfect change of author and date of the commit
