@@ -11,3 +11,4 @@ This is just a sandbox to learn how git and github work
 2. Adding empty commits
 3. You can't put date in commit later that 31.12.2099 23:59:59
 4. You can add pretty pictures using [Shields.io](https://shields.io)
+5. How releases are done in [Github](https://github.com)
