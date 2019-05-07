@@ -13,3 +13,4 @@ This is just a sandbox to learn how git and github work
 4. You can add pretty pictures using [Shields.io](https://shields.io)
 5. How releases are done in [Github](https://github.com)
 6. Add questions marks after .svg images so that they are not cached.
+7. How SSH Keys on Github work
