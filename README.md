@@ -1,5 +1,5 @@
 # Git and Github Sandbox Project
-This is just a sandbox to learn how git and github work
+This is just a sandbox to learn how git and github (and Docker) work
 
 # Some nice images from [shields.io](https://shields.io)
 ![Release](https://img.shields.io/github/release/CrafterKolyan/sandbox.svg?)
@@ -14,3 +14,4 @@ This is just a sandbox to learn how git and github work
 5. How releases are done in [Github](https://github.com)
 6. Add questions marks after .svg images so that they are not cached.
 7. How SSH Keys on Github work
+8. Creating own hello-world image for Docker
