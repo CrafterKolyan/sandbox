@@ -1,3 +1,4 @@
+// Solution by Nikolay Korolev, 517 group
 #include <iostream>
 #include <string>
 #include <sstream>
